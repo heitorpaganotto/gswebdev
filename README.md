@@ -131,7 +131,7 @@ JSON	Base de dados simulada
 
 ⚙️ Instalação e Execução
 1️⃣ Clone o repositório
-git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+git clone https://github.com/heitorpaganotto/gswebdev
 
 2️⃣ Acesse a pasta
 cd nome-do-projeto
@@ -143,7 +143,7 @@ npm install
 npm run dev
 
 5️⃣ Acesse no navegador
-http://localhost:5173/
+http://localhost:8080/
 
 🌎 Deploy
 
@@ -156,8 +156,13 @@ Link do GitHub:
 (Cole aqui o link do seu repo)
 
 👨‍🎓 Integrantes
-Nome	RM
-(adicione aqui)	(adicione aqui)
+Aluno: Heitor Rocha Paganotto
+ RM: 561595
+Aluno: Caio Alexandre Ziviani Poci 
+RM: 562256
+Aluno: Thiago Alessandro Gois Ferreira 
+RM: 562446
+
 🧭 Propósito Acadêmico
 
 Este projeto demonstra domínio de:
