@@ -148,12 +148,11 @@ http://localhost:8080/
 🌎 Deploy
 
 Link do deploy:
-(Cole aqui o link do Vercel ou Netlify)
-
+https://gswebdev-omega.vercel.app/
 🗂️ Repositório
 
 Link do GitHub:
-(Cole aqui o link do seu repo)
+https://github.com/heitorpaganotto/gswebdev
 
 👨‍🎓 Integrantes
 Aluno: Heitor Rocha Paganotto
